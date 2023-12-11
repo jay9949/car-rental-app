@@ -22,7 +22,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " Mahindra Thar's iconic design is a testament to its rich heritage and pays homage to its predecessor, the Mahindra CJ series, which was inspired by the original Jeep. With its distinctive and rugged aesthetics, the all-new Thar captures attention wherever it goes.",
   },
 
   {
@@ -38,7 +38,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "A flair for fun. Camry's available All-Wheel Drive (AWD) performance gives you the confidence to venture farther, no matter the forecast. Camry's available robust 3.5L V6 engine is also ready to deliver a thrilling drive, every drive.",
   },
 
   {
@@ -54,7 +54,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " Remarkable agility. Performance-minded drivers will love the BMW X3 M40i, with standard Adaptive M Suspension and M Sport Differential, as well as xDrive, BMW's intelligent all-wheel drive, for superior handling in a standout sport utility vehicle.",
   },
 
   {
@@ -70,7 +70,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " The Fortuner is the best SUV for long trips thanks to its spacious interior, comfortable ride, powerful engine, excellent safety features, advanced technology, off-road capability, and low maintenance costs.",
   },
 
   {
@@ -86,7 +86,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "The Swift's floating roof design, solid shoulder lines, and rich side body sculpting unite to give you a driving experience that thrills. Its low, short, wide stance has a presence that can't be ignored, making you stand out wherever you go.",
   },
 
   {
@@ -102,7 +102,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "The Mercedes-Benz S-Class is a classic chauffeur driven car, and has frequently been used as standard by car hire companies. It is comfortable and safe as well as elegant looking; ideal for drives across the countryside or high class transport on a night out.",
   },
 
   {

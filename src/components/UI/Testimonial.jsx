@@ -10,7 +10,6 @@ import ava04 from "../../assets/all-images/ava-4.jpg";
 
 const Testimonial = () => {
   const settings = {
-    dots: true,
     infinite: true,
     autoplay: true,
     speed: 1000,
