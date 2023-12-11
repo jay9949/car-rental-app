@@ -21,6 +21,8 @@ Desktop View:
 
 
 Mobile View:
+
+
 ![Mobile 1](https://github.com/jay9949/car-rental-app/assets/115682697/27237b74-2825-49ff-80be-14d17559d6ba)
 ![Mobile 2](https://github.com/jay9949/car-rental-app/assets/115682697/0b9fc786-edfa-46df-ac18-5dcfad99b917)
 
