@@ -18,3 +18,8 @@
   -webkit-transform: scale(0.9);
   transform: scale(0.9);
 }
+
+.page {
+  margin: 0 23rem;
+  width: 50%;
+}
