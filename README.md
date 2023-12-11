@@ -3,7 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -13,6 +12,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## here are images of site
+
+Desktop View:
+![Site 1](https://github.com/jay9949/car-rental-app/assets/115682697/d01d2454-44d6-4caf-98b3-694417cd91eb)
+![Site 2](https://github.com/jay9949/car-rental-app/assets/115682697/db664439-3935-4c38-aed7-af7ce80f4a58)
+
+
+Mobile View:
+![Mobile 1](https://github.com/jay9949/car-rental-app/assets/115682697/27237b74-2825-49ff-80be-14d17559d6ba)
+![Mobile 2](https://github.com/jay9949/car-rental-app/assets/115682697/0b9fc786-edfa-46df-ac18-5dcfad99b917)
+
 
 ### `npm test`
 
