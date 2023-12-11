@@ -5,6 +5,7 @@ import Helmet from "../components/Helmet/Helmet";
 import { useParams } from "react-router-dom";
 import BookingForm from "../components/UI/BookingForm";
 import PaymentMethod from "../components/UI/PaymentMethod";
+import "../styles/custom.css";
 
 const CarDetails = () => {
   const { slug } = useParams();
@@ -20,7 +21,7 @@ const CarDetails = () => {
       <section>
         <Container>
           <Row>
-            <Col lg="6">
+            <Col lg="6" className="car">
               <img src={singleCarItem.imgUrl} alt="" className="w-100" />
             </Col>
 

@@ -3,7 +3,7 @@ import img01 from "../all-images/cars-img/Thar.jpg";
 import img02 from "../all-images/cars-img/offer-toyota.png";
 import img03 from "../all-images/cars-img/bmw-offer.png";
 import img04 from "../all-images/cars-img/Legender.webp";
-import img05 from "../all-images/cars-img/offer-toyota.png";
+import img05 from "../all-images/cars-img/Swift.jpg";
 import img06 from "../all-images/cars-img/Mercedes-Benz.jpg";
 import img07 from "../all-images/cars-img/toyota-offer-2.png";
 import img08 from "../all-images/cars-img/mercedes-offer.png";
@@ -75,13 +75,13 @@ const carData = [
 
   {
     id: 5,
-    brand: "Toyota",
+    brand: "Suzuki",
     rating: 94,
-    carName: "Toyota CamryXL",
+    carName: "Suzuki Swift",
     imgUrl: img05,
     model: "Model-2022",
-    price: 1999,
-    speed: "185kmpl",
+    price: 899,
+    speed: "130kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
