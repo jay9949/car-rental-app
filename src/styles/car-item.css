@@ -16,6 +16,16 @@
   background: #000d6b;
   padding: 8px 0px;
 }
+.car-details img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.car-details img:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
 
 .car__item-btn a {
   text-decoration: none;

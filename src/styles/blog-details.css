@@ -5,6 +5,12 @@
 blockquote {
   line-height: 35px;
 }
+.blog__details img {
+  opacity: 0.5;
+}
+.blog__details img:hover {
+  opacity: 1;
+}
 
 .single__comment img {
   width: 70px;

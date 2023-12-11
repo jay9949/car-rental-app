@@ -1,7 +1,16 @@
 .blog__item {
   border: 1px solid #7c8a972e;
 }
-
+.blog__item img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.blog__item img:hover {
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+}
 .blog__time {
   border-top: 1px solid #7c8a972e;
 }

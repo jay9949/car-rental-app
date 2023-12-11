@@ -1,0 +1,9 @@
+.select {
+  padding: 5px 15px;
+  background: hsl(230.77deg 91.55% 13.92%);
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}

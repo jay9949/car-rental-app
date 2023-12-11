@@ -4,6 +4,7 @@ import Helmet from "../components/Helmet/Helmet";
 import CommonSection from "../components/UI/CommonSection";
 import CarItem from "../components/UI/CarItem";
 import carData from "../assets/data/carData";
+import "../styles/custom.css";
 
 const CarListing = () => {
   return (
@@ -19,7 +20,7 @@ const CarListing = () => {
                   <i className="ri-sort-asc"></i> Sort By
                 </span>
 
-                <select>
+                <select className="select">
                   <option>Select</option>
                   <option value="low">Low to High</option>
                   <option value="high">High to Low</option>

@@ -12,6 +12,16 @@
   color: #000d6b;
   font-weight: 600;
 }
+.become__driver-img img {
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.become__driver-img img:hover {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
 
 .become__driver-title {
   font-size: 2.8rem;
